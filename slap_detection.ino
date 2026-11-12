@@ -5,7 +5,7 @@
 
   Player 1 IR: D2
   Player 2 IR: D3
-  Piezo:       A0
+  Piezo: A0
 
   Assumption: IR receiver output is LOW
   when its beam is interrupted.
